@@ -1,7 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a8c9e0e0-c05b-4496-b7a2-83abac5df26f" name="Default Changelist" comment="" />
+    <list default="true" id="a8c9e0e0-c05b-4496-b7a2-83abac5df26f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/opon.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/font/css/animation.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/font/css/fontello-codes.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/font/css/fontello-embedded.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/font/css/fontello-ie7-codes.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/font/css/fontello-ie7.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/font/css/fontello.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/font/font/fontello.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/font/font/fontello.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/font/font/fontello.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/font/font/fontello.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/font/font/fontello.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/choose/Image.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/choose/Image1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/choose/Rectangle 41444.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icon/Shape 1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/img/Background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/say/bgrn.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/say/rtr.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/spain/Rectangle 414 45.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/spain/Rectangle 41445.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/video/videoplayback.mp4" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,7 +43,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="2IcLSN2TtujrB3YXZPzLyA4HjO6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -67,6 +99,7 @@
       <workItem from="1672311149190" duration="16000" />
       <workItem from="1672311479410" duration="9000" />
       <workItem from="1672311507190" duration="778000" />
+      <workItem from="1672312309299" duration="331000" />
     </task>
     <servers />
   </component>
