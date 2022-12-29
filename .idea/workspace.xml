@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a8c9e0e0-c05b-4496-b7a2-83abac5df26f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2IcLSN2TtujrB3YXZPzLyA4HjO6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\Desktop\opon\src\images\say" />
+      <recent name="C:\Users\User\Desktop\opon\src\images\img" />
+      <recent name="C:\Users\User\Desktop\opon\src\images\spain" />
+      <recent name="C:\Users\User\Desktop\opon\src\images\icon" />
+      <recent name="C:\Users\User\Desktop\opon\src\images\choose" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a8c9e0e0-c05b-4496-b7a2-83abac5df26f" name="Default Changelist" comment="" />
+      <created>1670475925557</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1670475925557</updated>
+      <workItem from="1670475934709" duration="2049000" />
+      <workItem from="1670503094174" duration="610000" />
+      <workItem from="1670511844777" duration="2604000" />
+      <workItem from="1670515225969" duration="297000" />
+      <workItem from="1670516271261" duration="7841000" />
+      <workItem from="1670573034428" duration="16837000" />
+      <workItem from="1670752220319" duration="111000" />
+      <workItem from="1670927002011" duration="85000" />
+      <workItem from="1670942983675" duration="725000" />
+      <workItem from="1670944542678" duration="98000" />
+      <workItem from="1671042220428" duration="41000" />
+      <workItem from="1671043939907" duration="62000" />
+      <workItem from="1671073717906" duration="288000" />
+      <workItem from="1671077805337" duration="145000" />
+      <workItem from="1671078230825" duration="61000" />
+      <workItem from="1671566243233" duration="14000" />
+      <workItem from="1671890558119" duration="27000" />
+      <workItem from="1671984036621" duration="776000" />
+      <workItem from="1672311149190" duration="16000" />
+      <workItem from="1672311479410" duration="9000" />
+      <workItem from="1672311507190" duration="778000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="137" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1670943348975">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1670943348975" />
+    <state x="413" y="110" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1670597386652">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="110" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1670597386652" />
+    <state x="339" y="162" width="672" height="677" key="run.anything.popup" timestamp="1670581891488">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" width="672" height="677" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1670581891488" />
+  </component>
+</project>

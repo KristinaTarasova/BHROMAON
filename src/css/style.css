@@ -1,0 +1,452 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style-type: none;
+    text-decoration: none;
+    font-family: 'Josefin Sans', sans-serif;
+    scroll-behavior: smooth;
+}
+.container{
+    max-width: 1110px;
+    margin: 0 auto;
+}
+
+.bhromaon-content{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.bhromaon{
+    padding: 277px 0 142px;
+    background: url("../images/img/Background.png") center/cover no-repeat;
+}
+
+.bhromaon-title {
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 26px;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 4.8px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}
+
+
+.bhromaon-subtitle{
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 29px;
+    text-align: center;
+    color: white;
+    margin-bottom: 50px;
+}
+
+.bhromaon-search {
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 26px;
+    text-align: center;
+}
+
+.bhromaon-search{
+    width: 656px;
+    height: 63px;
+    padding: 2px;
+    display: flex;
+    background: white;
+    justify-content: space-between;
+    margin: 0px auto;
+
+}
+
+.bhromaon-input{
+    width: 503px;
+    height: 100%;
+    padding: 19px;
+    text-align: center;
+    outline: none;
+    border: none;
+}
+
+.bhromaon-search-btn{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    column-gap: 10px;
+    background: #5474FD;
+    padding: 20px 20px 13px;
+    border: none;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 26px;
+    letter-spacing: 1.4px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    cursor: pointer;
+}
+
+.bhronaon-btn{
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 26px;
+    letter-spacing: 2.8px;
+    color: #FFFFFF;
+    background: transparent;
+    position: relative;
+    margin-top: 107px;
+}
+
+.bhronaon-btn-arrow{
+    position: absolute;
+    bottom: -25px;
+    left: 45px;
+    margin: 0 auto;
+}
+
+main{
+    position: relative;
+}
+
+.header{
+    position: sticky;
+    background: #5474FD;
+}
+
+.header-nav{
+    padding: 32px 0 25px;
+    display: flex;
+    justify-content: space-between;
+
+}
+.header-list{
+    display: flex;
+    column-gap: 20px;
+
+}
+
+.header-title{
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 26px;
+    letter-spacing: 2.4px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+
+}
+
+.header-item{
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 26px;
+    text-transform: uppercase;
+    color: #FFFFFF
+}
+
+.choose{
+    background: url("../images/choose/Rectangle 41444.png") center/cover no-repeat;
+}
+
+
+.choose-content{
+    display: flex;
+    justify-content: space-between;
+}
+
+.choose-left{
+    padding: 118px 0;
+    display: flex;
+    flex-direction: column;
+    row-gap: 50px;
+    justify-content: center;
+}
+
+.choose-title{
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 26px;
+    color: #FFFFFF;
+}
+
+.choose-info{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #FFFFFF;
+}
+
+.choose-right{
+    position: relative;
+}
+
+.choose-img1{
+    padding: 10px;
+    position: relative;
+    left: -50px;
+}
+
+.choose-img2{
+    padding: 5px;
+    position: relative;
+    left: 50px;
+}
+
+
+.choose-btn{
+    width: 228px;
+    height: 63px;
+    background: #5474FD;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    letter-spacing: 1.2px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    border: none;
+    cursor: pointer;
+}
+
+.icon{
+    background: #333333;
+    padding: 100px 0;
+}
+
+.icon-row{
+    display: flex;
+    justify-content: space-around;
+}
+
+.card-icon{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    row-gap: 15px;
+    z-index: 10;
+}
+
+.icon-search{
+    font-size: 40px;
+    color: #5474FD;
+}
+
+.icon-thumbs-up-1{
+    font-size: 40px;
+    color: #5474FD;
+    margin-left: 170px;
+}
+
+.icon-ok-circled2{
+    font-size: 40px;
+    color: #FF6363;
+    padding: 3px;
+    margin-left: 90px;
+}
+
+.card-icon-title{
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 26px;
+    color: #E8E8E8;
+}
+
+.card-icon-line{
+    position: relative;
+}
+
+.icon-line{
+    position: absolute;
+    left: 100px;
+    top: -90px;
+    z-index: -3;
+}
+
+.spain-video{
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    object-fit: cover;
+}
+
+.spain{
+    background: url("../images/spain/Rectangle 41445.png") center/cover no-repeat;
+    height: 700px;
+    position: relative;
+}
+
+.spain-card{
+    width: 543px;
+    padding: 50px 32px;
+    display: flex;
+    flex-direction: column;
+    background: #00000090;
+    opacity: 0.95;
+}
+
+.spain1{
+    padding-top: 200px;
+}
+
+.spain-card-title{
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 26px;
+    letter-spacing: 1.5px;
+    color: #FFFFFF;
+    margin: 23px 0 13px;
+}
+
+.spain-card-text{
+    letter-spacing: 1.5px;
+    color: #E8E8E8;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 26px;
+}
+
+.spain-info {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    display: flex;
+    align-items: center;
+    color: #E8E8E8;
+}
+
+.spain-btn{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    letter-spacing: 1.2px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    width: 228px;
+    height: 63px;
+    margin-top: 50px;
+    background: #5474FD;
+    border: none;
+    cursor: pointer;
+}
+
+.spain-block{
+    display: flex;
+    justify-content: right;
+}
+
+.spain-card2{
+    position: relative;
+    right: 0;
+    margin-bottom: 200px;
+}
+
+.say{
+    padding: 128px 0 200px;
+    background: url("../images/say/bgrn.png") center/cover no-repeat;
+}
+
+.say-title{
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 26px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.say-content{
+    display: flex;
+    flex-direction: column;
+    row-gap: 90px;
+}
+
+.say-block{
+    display: flex;
+    background: #333333;
+}
+
+.say-right{
+    padding: 50px 25px 39px 62px;
+}
+
+.say-right-info{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: white;
+}
+
+.say-right-title{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    margin-bottom: 20px;
+}
+
+.say-sapn{
+    font-size: 50px;
+    word-spacing: 10px;
+    color: #5474FD;
+}
+
+.footer{
+    background: #232323;
+    padding: 122px 0 23px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.footer-title{
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 26px;
+    letter-spacing: 3.36px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}
+
+.footer-subtitle{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    text-align: center;
+    letter-spacing: 1.6px;
+}
+
+.icon-linkedin{
+    color: #5474FD;
+}
+
+.footer-list{
+    display: flex;
+    column-gap: 20px;
+    color: #FFFFFF;
+    margin-top: 20px;
+}
+
+.footer-subtitle{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    text-align: center;
+    letter-spacing: 1.6px;
+    color: #FFFFFF;
+}
+
+.block{
+    display: flex;
+    flex-direction: column;
+}
+
+.header{
+    position: sticky;
+    top:0;
+    left: 0;
+    z-index: 1000;
+}
+
+
